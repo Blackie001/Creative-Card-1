@@ -65,7 +65,9 @@ You can easily customize the card by editing `style.css`:
 You can add a screenshot or GIF here to showcase the hover effect:
 
 ```
-![Preview](preview.png)
+<img width="1147" height="453" alt="{F6BAC3E7-6509-4054-8E84-67C31E1A13F1}" src="https://github.com/user-attachments/assets/e58b0754-9de4-4a97-9d99-49a318e4e64b" />
+<img width="1024" height="441" alt="{C4E597CE-77BA-4EBA-A797-C4F93CE49D25}" src="https://github.com/user-attachments/assets/8be63928-5437-4cb4-991f-5aa727ac46f6" />
+
 ```
 
 ---
