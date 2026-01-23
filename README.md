@@ -39,12 +39,12 @@ To view the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/Blackie001/Creative-Card-1.git
    ```
 2. Navigate to the project folder:
 
    ```bash
-   cd your-repository-name
+   cd Creative-Card-1
    ```
 3. Open `index.html` in your browser.
 
